@@ -19,6 +19,7 @@ def main():
 
     print "The temperature is", c , "degrees celsius."
 
-    print
+    end = input ("Hit any key to exit.")
+    
 
 main()
